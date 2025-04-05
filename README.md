@@ -30,7 +30,7 @@ Here's a glimpse into the tables you'll find. Be warned, the relationships might
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone https://github.com/MachFrum/chaosDB/commits?author=MachFrum
     ```
 2.  **Examine the SQL files:** Look for `.sql` files that contain the table definitions and potentially initial data.
 3.  **Set up your own database:** Use a SQL client (like DBeaver, pgAdmin, MySQL Workbench, etc.) to create a new database.
